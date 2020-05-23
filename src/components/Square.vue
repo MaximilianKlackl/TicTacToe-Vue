@@ -28,8 +28,4 @@ export default {
         border-radius: 0px;
     }
 
-    .button:hover{
-        
-    }
-
 </style>
