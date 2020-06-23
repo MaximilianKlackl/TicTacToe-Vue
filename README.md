@@ -1,4 +1,10 @@
-# tictactoe
+# TicTacToe
+
+## Description
+
+Basic TicTacToe written in Vue.js
+
+### Demo https://maximilianklackl.github.io/TicTacToe-Vue/
 
 ## Project setup
 ```
